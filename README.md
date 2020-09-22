@@ -1,2 +1,2 @@
 # nrt-sv-parsers
-Non regression test: SystemVerilog parser
+Non regression test: SystemVerilog parsers
